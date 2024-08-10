@@ -1,0 +1,31 @@
+1) what is software?
+
+Ans -> software is a set of instructions,
+       data or programs used to operate computers and execute specific tasks 
+
+       
+
+2) What are the types of Applications?
+
+Ans -> Database apps,
+       Custom apps,
+       Web-based apps,
+       Low code apps,
+       No code apps,
+       Enterprise apps.
+
+3) what is programming?
+
+Ans -> Programming is a collaboration between humans and computers.
+
+programming is giving a set of instructions to a computer to execute. 
+If you’ve ever cooked using a recipe before, you can think of yourself as the computer,
+and the recipe’s author as a programmer. 
+The recipe author provides you with a set of instructions that you read and then follow.
+The more complex the instructions, the more complex the result
+
+4) What is Python?
+
+Ans -> python is a higher level powerful , object-oriented, most popular progrraming language.
+python is next generation object oriented programming language.
+
